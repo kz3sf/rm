@@ -4,6 +4,7 @@
 To run this script, two directories are needed to be provided with:
 1. The directory of a folder containing only readable scripts to parsed
 2. The directory containing "labels.csv"
+
 and the output will be an average score and ten scores of 10-fold cross validation for each of the three classifiers
 
 ## How to approach
